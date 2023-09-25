@@ -92,7 +92,7 @@ main::after{
 
 .main-video video{
     width: 100%;
-    filter: blur(60px);
+    filter: blur(10px);
 }
 
 nav{
